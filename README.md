@@ -7,11 +7,11 @@
 
 ---
 
-## 🎖️ Google Cloud Skill Badge
+## Google Cloud Skill Badge
 
 This project is part of the **Google Cloud Skills Boost** program and represents successful completion of the **"Implement DevOps Workflows in Google Cloud"** skill badge challenge lab.
 
-** Verify Badge:** [View on Credly](https://www.credly.com/badges/fa6705ad-85d0-4441-a0d3-eada659ca0ce/public_url)
+Verify Badge:[View on Credly](https://www.credly.com/badges/fa6705ad-85d0-4441-a0d3-eada659ca0ce/public_url)
 
 ### What is a Google Cloud Skill Badge?
 
@@ -30,7 +30,7 @@ A **skill badge** is a digital credential issued by Google Cloud that demonstrat
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Architecture Overview](#architecture-overview)
@@ -46,7 +46,7 @@ A **skill badge** is a digital credential issued by Google Cloud that demonstrat
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This project demonstrates the implementation of a **complete CI/CD pipeline** for a Go application using Google Cloud Platform (GCP) native services. The pipeline automates the entire software delivery process from code commit to production deployment, embodying modern DevOps principles and practices.
 
@@ -61,7 +61,7 @@ This project demonstrates the implementation of a **complete CI/CD pipeline** fo
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -113,7 +113,7 @@ This project demonstrates the implementation of a **complete CI/CD pipeline** fo
 
 ---
 
-## 🔑 Core DevOps Concepts Demonstrated
+##  Core DevOps Concepts Demonstrated
 
 ### 1. **Continuous Integration (CI)**
 
@@ -221,7 +221,7 @@ This project demonstrates the implementation of a **complete CI/CD pipeline** fo
 
 ---
 
-## 🛠️ Technologies & Services Used
+##  Technologies & Services Used
 
 ### Google Cloud Platform Services
 
@@ -243,7 +243,7 @@ This project demonstrates the implementation of a **complete CI/CD pipeline** fo
 
 ---
 
-## 📚 Detailed Implementation Breakdown
+##  Detailed Implementation Breakdown
 
 ### Phase 1: Infrastructure Setup
 
@@ -438,7 +438,7 @@ Multiple rollback options provide flexibility:
 
 ---
 
-## 🌍 Real-World Use Cases & Comparisons
+##  Real-World Use Cases & Comparisons
 
 ### Use Case 1: E-Commerce Platform (Like Cymbal Superstore)
 
@@ -498,7 +498,7 @@ Multiple rollback options provide flexibility:
 
 ---
 
-## ✅ Best Practices Implemented
+##  Best Practices Implemented
 
 ### 1. **Immutable Infrastructure**
 
@@ -558,7 +558,7 @@ Multiple rollback options provide flexibility:
 
 ---
 
-## ⚠️ Common Pitfalls & Solutions
+##  Common Pitfalls & Solutions
 
 ### Pitfall 1: Image Tag Mismatch
 
@@ -602,7 +602,7 @@ Multiple rollback options provide flexibility:
 
 ---
 
-## 📈 Scaling Considerations
+##  Scaling Considerations
 
 ### Horizontal Scaling (More instances)
 
@@ -648,7 +648,7 @@ Multiple rollback options provide flexibility:
 
 ---
 
-## 🔒 Security Considerations
+##  Security Considerations
 
 ### 1. **Container Security**
 
@@ -684,7 +684,7 @@ Multiple rollback options provide flexibility:
 
 ---
 
-## 🎓 Key Learnings and Takeaways
+##  Key Learnings and Takeaways
 
 ### DevOps Principles Demonstrated
 
@@ -713,7 +713,7 @@ These practices are used by:
 
 ---
 
-## 🚀 Next Steps for Enhancement
+##  Next Steps for Enhancement
 
 ### 1. **Add Automated Testing**
 ```yaml
@@ -744,7 +744,7 @@ These practices are used by:
 
 ---
 
-## 📊 Metrics and KPIs
+##  Metrics and KPIs
 
 ### Deployment Metrics
 - **Deployment Frequency:** How often code is deployed (target: multiple times/day)
@@ -753,23 +753,23 @@ These practices are used by:
 - **Change Failure Rate:** Percentage of deployments causing issues (target: < 5%)
 
 ### This Pipeline's Performance
-- **Build Time:** ~3-5 minutes
-- **Deployment Time:** ~2-3 minutes
-- **Rollback Time:** ~1-2 minutes
-- **Zero Downtime:** ✅ Yes (via rolling updates)
+- **Build Time:** 3-5 minutes
+- **Deployment Time:** 2-3 minutes
+- **Rollback Time:** 1-2 minutes
+- **Zero Downtime:**  Yes (via rolling updates)
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project demonstrates a **production-ready CI/CD pipeline** implementing industry-standard DevOps practices. The architecture showcases:
 
-✅ **Automation** - Eliminates manual deployment steps
-✅ **Reliability** - Rollback capabilities ensure business continuity  
-✅ **Scalability** - Kubernetes autoscaling handles traffic growth
-✅ **Security** - IAM and RBAC protect resources
-✅ **Observability** - Cloud Build logs track all changes
-✅ **Speed** - Deploy multiple times per day with confidence
+**Automation** - Eliminates manual deployment steps
+**Reliability** - Rollback capabilities ensure business continuity  
+**Scalability** - Kubernetes autoscaling handles traffic growth
+**Security** - IAM and RBAC protect resources
+**Observability** - Cloud Build logs track all changes
+**Speed** - Deploy multiple times per day with confidence
 
 ### Real-World Impact
 
@@ -782,7 +782,7 @@ Organizations implementing similar pipelines report:
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
 ### Documentation
 - [Google Kubernetes Engine Documentation](https://cloud.google.com/kubernetes-engine/docs)
