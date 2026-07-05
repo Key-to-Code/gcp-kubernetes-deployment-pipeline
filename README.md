@@ -1,12 +1,5 @@
 # DevOps Workflows in Google Cloud - Comprehensive Guide
 
-![DevOps Pipeline](https://img.shields.io/badge/DevOps-CI%2FCD%20Pipeline-blue)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-GKE%20%7C%20Cloud%20Build-orange)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5)
-![Skill Badge](https://img.shields.io/badge/Google%20Cloud-Skill%20Badge-4285F4)
-
----
-
 ## Google Cloud Skill Badge
 
 This project was completed as part of the Google Cloud Skills Boost program and served as the qualifying assessment for the "Implement DevOps Workflows in Google Cloud" Skill Badge certification, demonstrating successful completion of the required challenge lab and fulfillment of the certification requirements
